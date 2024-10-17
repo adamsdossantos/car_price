@@ -81,9 +81,9 @@ Open the car_price_prediction.ipynb file and follow the step-by-step instruction
 
     | Metric    |  Value |
     |-----------|--------|
-    | Mean Absolute Error  |  1.28   |
-    | Root Mean Squared Error	 |  2.0   |
-    | R-squared (R²)    | 0.84  |
+    | Mean Absolute Error  |  1.18   |
+    | Root Mean Squared Error	 |  1.66   |
+    | R-squared (R²)    | 0.85  |
 
 
 
