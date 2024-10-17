@@ -1,4 +1,4 @@
-# Car Price Prediction with Linear Regression
+# Car Price Prediction with Linear Regression and Lasso
 
 ## 1. Project Overview
 
@@ -71,19 +71,19 @@ Open the car_price_prediction.ipynb file and follow the step-by-step instruction
 
 - Linear Regression
 
-| Metric    |  Value |
-|-----------|--------|
-| Mean Absolute Error  |  1.26   |
-| Root Mean Squared Error	 |  1.71   |
-| R-squared (R²)    | 0.84  |
+    | Metric    |  Value |
+    |-----------|--------|
+    | Mean Absolute Error  |  1.26   |
+    | Root Mean Squared Error	 |  1.71   |
+    | R-squared (R²)    | 0.84  |
 
 - Lasso
 
-| Metric    |  Value |
-|-----------|--------|
-| Mean Absolute Error  |  1.28   |
-| Root Mean Squared Error	 |  2.0   |
-| R-squared (R²)    | 0.84  |
+    | Metric    |  Value |
+    |-----------|--------|
+    | Mean Absolute Error  |  1.28   |
+    | Root Mean Squared Error	 |  2.0   |
+    | R-squared (R²)    | 0.84  |
 
 
 
